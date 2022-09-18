@@ -11,15 +11,15 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About me
 
-- My full name is **Trần Minh Thiện** <img src="https://c.tenor.com/Qj-ntiXKOjcAAAAC/bts-travel.gif" width="400px" height="300px" align="right"/>
-- I'm currently student at **FPT University - Ho Chi Minh City Campus**
-- My major **Software Engineering**
-- My Hometown **Rach Gia city, Kien Giang province, Viet Nam**
+- :ticket: My full name is **Trần Minh Thiện** <img src="https://c.tenor.com/Qj-ntiXKOjcAAAAC/bts-travel.gif" width="400px" height="300px" align="right"/>
+- :school: I'm currently student at **FPT University - Ho Chi Minh City Campus**
+- :briefcase: My major **Software Engineering**
+- :house: Hometown **Rach Gia city, Kien Giang province, Viet Nam**
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
 - :sweat_smile: I'm a newbie in **Game developer** :penguin:
 - :monocle_face: I'm interested in **Coding, Gaming especially horror game, Shower**
-- :dart: My dearm is **Travelling around the world**
-- :sunglasses: Making **Video game for youtube**
+- :sunglasses: My dearm is **Travelling around the world**
+- Making **Video game for youtube**
 
 
 
