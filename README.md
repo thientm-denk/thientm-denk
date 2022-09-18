@@ -73,4 +73,8 @@
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
         <img src="https://agitech.com.vn/images/sql.png" alt="SqlServer" width="40" height="40" />
     </a>
+    
+    
 </p>
+
+<p align="center"> Thanks you for viewed my profile, have a nice day</p>
