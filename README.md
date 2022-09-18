@@ -11,7 +11,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About me
 
-- My full name is **Trần Minh Thiện** <img src="https://c.tenor.com/Qj-ntiXKOjcAAAAC/bts-travel.gif" width="400" align="right"/>
+- My full name is **Trần Minh Thiện** <img src="https://c.tenor.com/Qj-ntiXKOjcAAAAC/bts-travel.gif" width="400" height="400" align="right"/>
 - I'm currently student at **FPT University - Ho Chi Minh City Campus**
 - My major **Software Engineering**
 - My Hometown **Rach Gia city, Kien Giang province, Viet Nam**
