@@ -1,8 +1,14 @@
-<h1 align="center">Hi 👋, I'm Trần Minh Thện</h1>
+<h1 align="left">Hi 👋, I'm Trần Minh Thện</h1>
+<img src="https://komarev.com/ghpvc/?username=denkhotieu&label=Profile%20views&color=0e75b6&style=flat"
+    alt="denkhotieu" style="margin-right: 1%;"/>
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/denkhotieu?style=social"> &nbsp;&nbsp;
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/denkhotieu?style=social"> &nbsp;&nbsp;
+
+
+<hr />
 <h3 align="center">A Fresher game develop in VietNam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=denkhotieu&label=Profile%20views&color=0e75b6&style=flat"
-        alt="denkhotieu" /> </p>
 
 - 📫 How to reach me **thien**
 
@@ -53,6 +59,6 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/svg/303229/microsoft-sql-server-logo" alt="unity" width="40" height="40" />
+        <img src="https://agitech.com.vn/images/sql.png" alt="SqlServer" width="40" height="40" />
     </a>
 </p>
