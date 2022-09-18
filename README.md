@@ -34,6 +34,9 @@
     <a href="https://www.youtube.com/c/DenKhoTieu6969" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="denkhotieu" height="30" width="40" /></a>
+     <a href="https://stackoverflow.com/users/trần-minh-thiện" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="trần-minh-thiện" height="30" width="40"/></a>
+    
+    <a href="https://instagram.com/denkhotieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denkhotieu" height="30" width="40" /></a>
 </p>
 
 ## <img src="https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50px" height="50px" > Languages and Tools
@@ -74,13 +77,8 @@
         <img src="https://agitech.com.vn/images/sql.png" alt="SqlServer" width="40" height="40" />
     </a>
     
-    <a href="https://stackoverflow.com/users/trần-minh-thiện" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="trần-minh-thiện" height="30" width="40" />
-    </a>
+   
     
-    <a href="https://instagram.com/denkhotieu" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"        alt="denkhotieu" height="30" width="40" />
-    </a>
 </p>
 
 <div align="center">
