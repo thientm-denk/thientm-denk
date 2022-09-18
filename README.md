@@ -24,7 +24,7 @@
 
 
 ## <img src="https://res.cloudinary.com/disqggvnt/image/upload/c_scale,w_248,h_248,dpr_2/c_fit/f_auto,q_auto/v1654785976/Phone-Animation.gif?_i=AA" width="50px" height="50px" > Connect with me
-<p align="left">
+<p align="center">
     <a href="https://linkedin.com/in/thientran-denk" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="thientran-denk" height="30" width="40" /></a>
@@ -39,7 +39,7 @@
 ## <img src="https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50px" height="50px" > Languages and Tools
 
 
-<p align="left">
+<p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" />
