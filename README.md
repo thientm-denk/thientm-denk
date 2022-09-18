@@ -5,9 +5,9 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/denkhotieu?style=social"> &nbsp;&nbsp;
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/denkhotieu?style=social"> &nbsp;&nbsp;
 
-
+##
 <h3 align="center">A Fresher game develop in VietNam</h3>
-
+##
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About me
 
 - My full name is **Trần Minh Thiện** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
