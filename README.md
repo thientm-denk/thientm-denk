@@ -23,7 +23,7 @@
 
 
 
-## <img src="https://i.gifer.com/origin/b9/b929ebd19cecfa8dc0e01a5ee093edfd_w200.gif" width="50px" height="50px"> Connect with me
+## <img src="https://i.gifer.com/origin/b9/b929ebd19cecfa8dc0e01a5ee093edfd_w200.gif" width="50px" height="50px" margin="-20px"> Connect with me
 <p align="left">
     <a href="https://linkedin.com/in/thientran-denk" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -36,7 +36,7 @@
             alt="denkhotieu" height="30" width="40" /></a>
 </p>
 
-## <img src="https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50px" height="50px" margin: "-20px"> Languages and Tools
+## <img src="https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50px" height="50px" > Languages and Tools
 
 
 <p align="left">
