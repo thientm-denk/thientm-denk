@@ -23,7 +23,7 @@
 
 
 
-## <img src="https://loading.io/asset/601136" width="50px" height="50px" > Connect with me
+## <img src="https://res.cloudinary.com/disqggvnt/image/upload/c_scale,w_248,h_248,dpr_2/c_fit/f_auto,q_auto/v1654785976/Phone-Animation.gif?_i=AA" width="50px" height="50px" > Connect with me
 <p align="left">
     <a href="https://linkedin.com/in/thientran-denk" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
