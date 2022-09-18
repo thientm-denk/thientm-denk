@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Trần Minh Thện</h1>
-<img src="https://komarev.com/ghpvc/?username=denkhotieu&label=Profile%20views&color=0e75b6&style=flat"
-    alt="denkhotieu" "/>
+<img src="https://komarev.com/ghpvc/?username=denkhotieu&label=Profile%20views&color=0e75b6&style=flat" alt="denkhotieu"
+    style="margin-right: 1%;" />
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/denkhotieu?style=social"> &nbsp;&nbsp;
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/denkhotieu?style=social"> &nbsp;&nbsp;
@@ -9,8 +9,22 @@
 <hr />
 <h3 align="center">A Fresher game develop in VietNam</h3>
 
+<hr>
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About
+Me
 
-- 📫 How to reach me **thien**
+<p>- My full name is **Trần Minh Thiện** </p>
+<!--  <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/> -->
+<p>- I'm currently student at **FPT University - Ho Chi Minh City Campus**</p> 
+<p>- My major **Software Engineering**</p>
+<p>- My Hometown **Rach Gia city, Kien Giang province, Viet Nam**</p>
+<p>- :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**</p>
+<p>- :sweat_smile: I'm a newbie in game developer :penguin:</p>
+<p>- :monocle_face: I'm interested in coding, gaming especially horror game, travelling</p>
+<p>- :sunglasses: My quote is ***"//"***</p>
+<p>- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~
+    everything :point_right: sleep
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +39,8 @@
             alt="denkhotieu" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## <img src="https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50px" height="50px"> Languages and Tools
+
 
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
