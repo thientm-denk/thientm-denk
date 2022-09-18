@@ -8,7 +8,7 @@
 <hr/>
 <h3 align="center">A Fresher game develop in VietNam</h3>
 <hr/>
-##<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img>About me
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img>About me
 
 - My full name is **Trần Minh Thiện** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - I'm currently student at **FPT University - Ho Chi Minh City Campus**
@@ -22,7 +22,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+## <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/thientran-denk" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
