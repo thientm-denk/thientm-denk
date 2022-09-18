@@ -75,6 +75,7 @@
     </a>
     
 </p>
-
-
-:smiling_face_with_three_hearts:<p align="center">Thanks you for viewed my profile, have a nice day </p>:smiling_face_with_three_hearts:
+https://media2.giphy.com/media/TLsA7ndG3TRgnFssUi/giphy.gif?cid=6c09b952g7htcq5jaw3txudizixenv0bpqxtj5xkvolw80bu&rid=giphy.gif&ct=s
+<div align="center">
+    <img src="https://c.tenor.com/Qj-ntiXKOjcAAAAC/bts-travel.gif" width="20px" height="20px" />Thanks for watching my profile! Have a nice day! <img src="https://c.tenor.com/Qj-ntiXKOjcAAAAC/bts-travel.gif" width="20px" height="20px"/>
+</div>
