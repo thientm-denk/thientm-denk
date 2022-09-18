@@ -18,7 +18,7 @@
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
 - :sweat_smile: I'm a newbie in **Game developer** :penguin:
 - :monocle_face: I'm interested in **Coding, Gaming especially horror game, Shower**
-- :sunglasses: My dearm is **Travelling around the world**
+- :sunglasses: My dream is **Traveling around the world**
 - Making **Video game for youtube**
 
 
