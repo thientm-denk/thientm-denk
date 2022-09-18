@@ -8,22 +8,21 @@
 
 <hr />
 <h3 align="center">A Fresher game develop in VietNam</h3>
-<hr/>
 
+<hr/>
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img>About me
 
-<p>- My full name is **Trần Minh Thiện** </p>
+- My full name is **Trần Minh Thiện** 
 <!--  <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/> -->
-<p>- I'm currently student at **FPT University - Ho Chi Minh City Campus**</p> 
-<p>- My major **Software Engineering**</p>
-<p>- My Hometown **Rach Gia city, Kien Giang province, Viet Nam**</p>
-<p>- :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**</p>
-<p>- :sweat_smile: I'm a newbie in game developer :penguin:</p>
-<p>- :monocle_face: I'm interested in coding, gaming especially horror game, travelling</p>
-<p>- :sunglasses: My quote is ***"//"***</p>
-<p>- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~
-    everything :point_right: sleep
-</p>
+- I'm currently student at **FPT University - Ho Chi Minh City Campus**
+- My major **Software Engineering**
+- My Hometown **Rach Gia city, Kien Giang province, Viet Nam**
+- :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
+- :sweat_smile: I'm a newbie in game developer :penguin:
+- :monocle_face: I'm interested in coding, gaming especially horror game, travelling
+- :sunglasses: My quote is ***"//"***
+ :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
