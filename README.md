@@ -74,6 +74,7 @@
         <img src="https://agitech.com.vn/images/sql.png" alt="SqlServer" width="40" height="40" />
     </a>
     
-    
 </p>
-<img src="https://media2.giphy.com/media/TLsA7ndG3TRgnFssUi/giphy.gif?cid=6c09b952g7htcq5jaw3txudizixenv0bpqxtj5xkvolw80bu&rid=giphy.gif&ct=s" width="20px" height="20px" align="center"/>Thanks you for viewed my profile, have a nice day<img src="https://media2.giphy.com/media/TLsA7ndG3TRgnFssUi/giphy.gif?cid=6c09b952g7htcq5jaw3txudizixenv0bpqxtj5xkvolw80bu&rid=giphy.gif&ct=s" width="20px" height="20px" align="center"/>
+
+
+:smiling_face_with_three_hearts:<p align="center">Thanks you for viewed my profile, have a nice day </p>:smiling_face_with_three_hearts:
