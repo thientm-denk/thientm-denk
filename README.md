@@ -76,6 +76,6 @@
     
     
 </p>
-<img src="https://media2.giphy.com/media/TLsA7ndG3TRgnFssUi/giphy.gif?cid=6c09b952g7htcq5jaw3txudizixenv0bpqxtj5xkvolw80bu&rid=giphy.gif&ct=s" width="20px" height="20px" align="center"/>
+<img src="https://media2.giphy.com/media/TLsA7ndG3TRgnFssUi/giphy.gif?cid=6c09b952g7htcq5jaw3txudizixenv0bpqxtj5xkvolw80bu&rid=giphy.gif&ct=s" width="20px" height="20px" align="right"/>
 <p align="center"> Thanks you for viewed my profile, have a nice day</p>
 <img src="https://media2.giphy.com/media/TLsA7ndG3TRgnFssUi/giphy.gif?cid=6c09b952g7htcq5jaw3txudizixenv0bpqxtj5xkvolw80bu&rid=giphy.gif&ct=s" width="20px" height="20px" align="center"/>
