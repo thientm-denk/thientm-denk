@@ -17,9 +17,9 @@
 - My Hometown **Rach Gia city, Kien Giang province, Viet Nam**
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
 - :sweat_smile: I'm a newbie in **Game developer** :penguin:
-- :monocle_face: I'm interested in coding, gaming especially horror game, travelling
-- :sunglasses: My quote is ***"//"***
- :ok_hand:  :ok_hand:  :ok_hand:  :ok_hand: 
+- :monocle_face: I'm interested in **Coding, Gaming especially horror game, Shower**
+- :sunglasses: My dearm is **Travelling around the world**
+- Making **Video game for youtube**
 
 
 
