@@ -5,7 +5,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/denkhotieu?style=social"> &nbsp;&nbsp;
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/denkhotieu?style=social"> &nbsp;&nbsp;
 
-##
+<hr/>
 <h3 align="center">A Fresher game develop in VietNam</h3>
 <hr/>
 
