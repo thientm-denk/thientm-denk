@@ -35,7 +35,6 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="denkhotieu" height="30" width="40" /></a>
      <a href="https://instagram.com/denkhotieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denkhotieu" height="30" width="40" /></a>
-     
     <a href="https://stackoverflow.com/users/20026352/trần-minh-thiện" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="trần-minh-thiện" height="30" width="40" /></a>
 </p>
 
