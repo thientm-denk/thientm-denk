@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Trần Minh Thện</h1>
 <img src="https://komarev.com/ghpvc/?username=denkhotieu&label=Profile%20views&color=0e75b6&style=flat" alt="denkhotieu"
     style="margin-right: 1%;" />
-[![CI with GitHub Actions using Ant and JUnit | © 2022 by denkhotieu](https://github.com/denkhotieu/math-ulti-ant/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/denkhotieu/math-ulti-ant/actions/workflows/ci-with-ant.yml)
+
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/denkhotieu?style=social"> &nbsp;&nbsp;
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/denkhotieu?style=social"> &nbsp;&nbsp;
 
