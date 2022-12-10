@@ -2,8 +2,8 @@
 <img src="https://komarev.com/ghpvc/?username=denkhotieu&label=Profile%20views&color=0e75b6&style=flat" alt="denkhotieu"
     style="margin-right: 1%;" />
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/denkhotieu?style=social"> &nbsp;&nbsp;
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/denkhotieu?style=social"> &nbsp;&nbsp;
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/thientm-denk?style=social"> &nbsp;&nbsp;
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/thientm-denk?style=social"> &nbsp;&nbsp;
 
 <hr/>
 <h3 align="center">A Fresher game developer in VietNam</h3>
